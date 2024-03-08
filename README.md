@@ -44,7 +44,7 @@
 ### Evalution Code
 code: https://github.com/lartpang/PySODEvalToolkit
 
-##Comprison Experiments with SOTA methods
+## Comprison Experiments with SOTA methods
 ![](https://github.com/LuckyLcz418/FileInsert/blob/main/experiment1.jpg)
 ![](https://github.com/LuckyLcz418/FileInsert/blob/main/experiment2.jpg)
 ![](https://github.com/LuckyLcz418/FileInsert/blob/main/visualization.jpg)
