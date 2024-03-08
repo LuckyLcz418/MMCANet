@@ -6,14 +6,14 @@
 
 ## Download
 - Scribble datasets:
-    Google Drive:
-    Baidu:
+    Google Drive: https://drive.google.com/file/d/1w1MMuhNySVhdjouDiPk7zhdu2w_4In6g/view?usp=drive_link
+    Baidu: https://pan.baidu.com/s/1yB5tOV0gY7iU_T1fFP5hyQ  提取码：1234
 - Pseudo labels:
     Google Drive: https://drive.google.com/file/d/1pnbZAFPQIXMX1mtF6oFyJtmmQZ57efM9/view?usp=drive_link
     Baidu: https://pan.baidu.com/s/1jyy-A45xt9N0KeVur7FwZA  提取码：1234
 - Test datasets: 
-    Google Drive:
-    Baidu:
+    Google Drive: https://drive.google.com/file/d/1cObanlQleC1u3xVXDGBze0H4hBtYfFct/view?usp=drive_link
+    Baidu: https://pan.baidu.com/s/1nlDu_uwCsxgeWhvEpAD1Tg  提取码：1234
 - SAM model parameters: 
     Google Drive: https://drive.google.com/file/d/1JrXxFSXiqJtB4iN2ExTabgocaK6HJy9D/view?usp=drive_link
     Baidu: https://pan.baidu.com/s/1DBCb2VBUMcdIbJL6G1Sk9A  提取码：1234
